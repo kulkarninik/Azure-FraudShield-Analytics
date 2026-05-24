@@ -354,30 +354,3 @@ Your-Local-Folder/
 ├── .gitignore
 ├── LICENSE
 └── README.md
-🚀 Publishing to GitHub
-Commands:
-Bash
-
-# Initialize Git
-git init
-
-# Add all files
-git add .
-
-# Commit
-git commit -m "Initial commit: FraudShield Analytics Platform"
-
-# Create repository on GitHub (via website)
-# Then link and push:
-git remote add origin https://github.com/yourusername/Azure-FraudShield-Analytics.git
-git branch -M main
-git push -u origin main
-✅ Before Publishing Checklist
- Replace [Your Name] with your actual name
- Replace your.email@example.com with your email
- Replace yourusername with your GitHub username
- Add screenshots to docs/dashboard_screenshots/
- Export Databricks notebooks as .py files
- Save Power BI file (without sensitive data)
- Remove any secrets/keys from code
- Test all links in README
