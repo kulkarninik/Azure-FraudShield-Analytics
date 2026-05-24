@@ -263,10 +263,10 @@ Suggest features
 Submit pull requests
 Improve documentation
 📧 Contact
-Your Name
-📧 Email: your.email@example.com
-💼 LinkedIn: linkedin.com/in/yourprofile
-🌐 Portfolio: yourportfolio.com
+Your Name: Nikita Kulkarni
+📧 Email: kulkarninikita32@gmail.com
+💼 LinkedIn: www.linkedin.com/in/nikitakulkarni32
+
 
 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
@@ -281,19 +281,11 @@ If this project helped you learn or build something cool, please give it a ⭐!
 
 Built with ❤️ using Azure, Databricks, and Power BI
 
-text
+
+##📝 **Additional Files to Create**
 
 
----
-
-## 📝 **Additional Files to Create**
-
-### **1. LICENSE File**
-
-Create `LICENSE` file:
-MIT License
-
-Copyright (c) 2024 [Your Name]
+Copyright (c) 2026 Nikita Kulkarni
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -317,54 +309,6 @@ text
 
 
 ---
-
-### **2. .gitignore File**
-
-Create `.gitignore`:
-Power BI
-*.pbix.tmp
-*.pbix.backup
-
-Python
-pycache/
-*.py[cod]
-*$py.class
-*.so
-.Python
-env/
-venv/
-
-Databricks
-.databricks/
-
-Secrets
-*.key
-*.secret
-config.json
-secrets.yml
-
-OS
-.DS_Store
-Thumbs.db
-
-IDE
-.vscode/
-.idea/
-*.swp
-*.swo
-
-Azure
-*.publishsettings
-
-text
-
-
----
-
-### **3. docs/setup_guide.md** (Brief)
-
-```markdown
-# Setup Guide
 
 ## Azure Resources
 
